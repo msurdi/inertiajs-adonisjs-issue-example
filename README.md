@@ -1,6 +1,6 @@
 # Example project
 
-This repository is a minimal example for reproducing [this issue](/?tbd)
+This repository is a minimal example for reproducing [this issue](https://github.com/eidellev/inertiajs-adonisjs/pull/98)
 
 ## Starting the project
 
